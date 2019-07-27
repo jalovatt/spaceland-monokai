@@ -1,0 +1,26 @@
+{
+    "name": "spaceland-monokai",
+    "displayName": "Spaceland Monokai",
+    "description": "My preferred tweaks to the awesome Flatland Monokai.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spaceland Monokai (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spaceland Monokai Dark-color-theme.json"
+            },
+            {
+                "label": "Spaceland Monokai (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Spaceland Monokai Light-color-theme.json"
+            }
+        ]
+    }
+}
