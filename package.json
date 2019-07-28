@@ -2,6 +2,14 @@
     "name": "spaceland-monokai",
     "displayName": "Spaceland Monokai",
     "description": "My preferred tweaks to the awesome Flatland Monokai.",
+    "homepage": "https://github.com/jalovatt/spaceland-monokai",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jalovatt/spaceland-monokai.git"
+    },
+    "bugs": {
+      "url": "https://github.com/jalovatt/spaceland-monokai/issues"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.36.0"
