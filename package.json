@@ -2,6 +2,7 @@
     "name": "spaceland-monokai",
     "displayName": "Spaceland Monokai",
     "description": "My preferred tweaks to the awesome Flatland Monokai.",
+    "publisher": "jalovatt",
     "homepage": "https://github.com/jalovatt/spaceland-monokai",
     "repository": {
         "type": "git",
